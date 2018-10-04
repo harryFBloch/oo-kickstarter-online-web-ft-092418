@@ -5,7 +5,7 @@ class Project
     self.title = title
   end
   
-  def add_backer(name)
+  def add_backers(name)
     
   end
   
